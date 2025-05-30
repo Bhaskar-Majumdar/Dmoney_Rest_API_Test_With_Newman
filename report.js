@@ -11,10 +11,11 @@ newman.run(
       },
     },
   },
+
   function (err) {
     if (err) {
       throw err;
     }
-    console.log("collection run is complete");
+    console.log("collection run is complete!");
   }
 );
