@@ -1,7 +1,7 @@
 # Project: Dmoney_Rest_API_Testing
 
 ## Project Summary:
-DMoney is a demonstration banking platform that simulates financial transactions using virtual currency. The API provides core banking functionalities including - User account creation and management, Virtual fund transfers between accounts, Balance inquiries and transaction history, Role-based access control (admin/agent/customer). Here I have Performed Integration and API Testing of DMoney API Collection.
+DMoney is a demonstration banking platform that simulates financial transactions using virtual currency. The API provides core banking functionalities including - User account creation and management, Virtual fund transfers between accounts, Balance inquiries and transaction history, Role-based access control (admin/agent/customer/merchant). Here I have Performed Integration and API Testing of DMoney API Collection.
 
 ## Testcase Scenarios:
 1. Admin creates - Agent, 2 Random Customers and Merchant.
